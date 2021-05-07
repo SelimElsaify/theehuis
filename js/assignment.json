@@ -1,0 +1,49 @@
+ var assignmentJSON = {
+	"assignments": [{
+			"id": "11",
+			"title": "Assigment number one 11",
+			"category": "beginner",
+			"student": "Selim",
+			"image": "../images/techground.png",
+			"rating": "5",
+			"isbn": "123-456-789-1",
+			"availability": true,
+		    "new" : true, 
+			"description": "consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+		},
+
+		{
+			"id": "22",
+			"title": "Assigment number one 22",
+			"category": "beginner",
+			"student": "other",
+			"image": "../images/techground.png",
+			"rating": "5",
+			"isbn": "123-456-789-22",
+			"availability": false,
+			"description": "Contrary to popular belief, Lorem Ipsum is not simply random text. It has roots in a piece of classical Latin literature from 45 BC, making it over 2000 years old. Richard McClintock, a Latin professor at Hampden-Sydney College in Virginia, looked up one of the more obscure Latin words, consectetur, from a Lorem Ipsum passage, and going through the cites of the word in classical."
+		},
+			{
+			"id": "33",
+			"title": "Assigment number one 33",
+			"category": "expert",
+			"student": "Selim",
+			"image": "../images/techground.png",
+			"rating": "5",
+			"isbn": "123-456-789-88",
+			"availability": true,
+			"description": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their ."
+		}
+	]
+}
+
+var assignmentObject = assignmentJSON; 
+ 
+//console.log(typeof assignmentJSON);
+//console.log(assignmentObject);
+
+
+
+
+
+
